@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 
 
-<!--
-**Maeva1006/Maeva1006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 My name is Maeva, a student at SAYNA. It's a digital school to learn all digitals with a good family spirit and game way
+- 🌱 I'm interested in code but I'm not a developer yet, I plan to become one very soon.
+- 👯 I’m currently learning all things about development
+- 🔭 I’m looking to collaborate on many projects to see all the methodoly development in the world 
+- 📫 How to reach me: maevarandriamanga@gmail.com
+  
+<br><br>
+More about Sayna : https://www.sayna.io/<br>
+<br><br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+To the pleasure of exchanging or/and collaborating together
